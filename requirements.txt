@@ -1,0 +1,4 @@
+behaviorgpt>=0.10.0
+streamlit>=1.40
+pandas
+altair
